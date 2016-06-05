@@ -1,0 +1,15 @@
+{
+  "name": "dark-console-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Dark console syntax for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/lebedov/dark-console-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
